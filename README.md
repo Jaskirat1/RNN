@@ -1,2 +1,2 @@
-# RNN
+# CNN_MNIST
 mnist
